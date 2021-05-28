@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mychat.iml" filepath="$PROJECT_DIR$/.idea/Mychat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../THUCHANHPHP/.idea/THIPHP.iml" filepath="$PROJECT_DIR$/../THUCHANHPHP/.idea/THIPHP.iml" />
+    </modules>
+  </component>
+</project>
